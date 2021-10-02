@@ -59,10 +59,6 @@ Since Administrator has switched over to Composer, you can no longer use `php ar
 The complete docs for Administrator can be found at http://administrator.frozennode.com. You can also find the docs in the `/src/docs` directory.
 
 
-## Copyright and License
-Administrator was written by Jan Hartigan of Frozen Node for the Laravel framework.
-Administrator is released under the MIT License. See the LICENSE file for details.
-
 
 ## Recent Changelog
 
@@ -121,3 +117,8 @@ Administrator is released under the MIT License. See the LICENSE file for detail
 ### 5.0.0
 - Upgraded to Laravel 5
 - New translations (az)
+
+## Copyright and License
+Administrator was written by Jan Hartigan of Frozen Node for the Laravel framework.
+Administrator is released under the MIT License. See the LICENSE file for details.
+
