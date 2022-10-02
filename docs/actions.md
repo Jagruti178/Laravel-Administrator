@@ -52,7 +52,9 @@ In a [model configuration file](/docs/model-configuration#custom-actions), the E
 
 	'action' => function(&$model)
 	{
-		//
+		'some_action' => array(
+			//action options
+		)
 	}
 
 You can also create a general action on your model page in the `global_actions` array.
@@ -72,7 +74,9 @@ In a [settings configuration file](/docs/settings-configuration#custom-actions),
 
 	'action' => function(&$data)
 	{
-		//
+		'some_action' => array(
+			//action options
+		)
 	}
 
 <a name="confirmations"></a>
